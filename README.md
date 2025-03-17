@@ -5,7 +5,7 @@ Bem-vindo ao repositório oficial da MASBrasil, uma iniciativa dedicada à tradu
 
    📌 Sobre Nós
 
-  Somos uma comunidade brasileira apaixonada por Monika After Story (MAS) e queremos tornar unir todos os fãs brasileiros que gostam de DDLC, Monika e inclusive MAS e vamos tornar os submods mais acessíveis para os brasileiros. Aqui você encontrará submods traduzidos para PT-BR e novidades sobre conteúdos da comunidade e do mod.
+  Somos uma comunidade brasileira apaixonada por Monika After Story (MAS) e dedicados a unir todos os fãs de DDLC, Monika e MAS. Nosso objetivo é tornar os submods mais acessíveis para os brasileiros, oferecendo traduções para PT-BR e compartilhando novidades sobre o mod e a comunidade. Aqui, você encontrará submods traduzidos, atualizações e muito mais!
 
 
    🌟 O Que Fazemos?
