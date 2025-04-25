@@ -10,7 +10,7 @@ Bem-vindo ao repositório oficial da MASBrasil, uma iniciativa dedicada à tradu
 
    🌟 O Que Fazemos?
 
-  - Traduzimos submods do inglês para o português.
+  - Traduzimos submods do inglês para o português brasileiro.
 
   - Divulgamos e incentivamos o crescimento da comunidade de MAS no Brasil.
 
