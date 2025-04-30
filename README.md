@@ -37,7 +37,7 @@ Bem-vindo ao repositório oficial da MASBrasil, uma iniciativa dedicada à tradu
         📢 Entre na Comunidade!
      Junte-se a outros fãs de Monika After Story e fique por dentro das novidades. Compartilhe ideias, peça suporte e interaja com a comunidade!
 
-     Servidor do Discord: https://discord.gg/masbrasil
+     Servidor do Discord: [https://discord.gg/masbrasil](https://discord.gg/vq5GZBW42R)
 
      Comunidade no Reddit: https://www.reddit.com/r/MASBrasil/
 
