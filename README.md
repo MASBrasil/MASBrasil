@@ -40,10 +40,3 @@ Bem-vindo ao repositório oficial da MASBrasil, uma iniciativa dedicada à tradu
      Servidor do Discord: [https://discord.gg/masbrasil](https://discord.gg/vq5GZBW42R)
 
      Comunidade no Reddit: https://www.reddit.com/r/MASBrasil/
-
-
-        📩 Contato
-
-     Gostaria de entrar em contato direto com a gente? Mande um email!
-
-     Email para contato: masbrasil.2025@gmail.com
